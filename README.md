@@ -9,7 +9,8 @@ Additionally, we delve into the exciting world of jailbreak features, encompassi
 This guide is your ultimate companion for a successful iOS 17.2 jailbreak journey.
 
 
-![image](https://github.com/Silzee/iOS-17.2-Jailbreak/assets/75421987/97ac2229-a5d0-4ad4-8415-abf7cb9f155a)
+![image](https://github.com/Silzee/iOS-17.2-Jailbreak/assets/75421987/9f85cd2d-3fb7-4c9b-83c6-4304c5559dbf)
+
 
 
 
