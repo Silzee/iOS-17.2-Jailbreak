@@ -10,4 +10,7 @@ This guide is your ultimate companion for a successful iOS 17.2 jailbreak journe
 
 ![Uploading image.png…]()
 
+![Uploading image.png…]()
+
+
 
