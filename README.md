@@ -8,5 +8,5 @@ and warranty implications for each method.
 Additionally, we delve into the exciting world of jailbreak features, encompassing tweaks and themes tailored for iOS 17.2. Moreover, we offer guidance on bringing iOS 17.2's cutting-edge features to older iOS devices through the art of jailbreaking. 
 This guide is your ultimate companion for a successful iOS 17.2 jailbreak journey.
 
-
+![image]https://pbs.twimg.com/media/F8K2EUJWcAEZFjZ?format=jpg&name=900x900
 
