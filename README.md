@@ -1,4 +1,4 @@
-# iOS-17.2-Jailbreak
+# iOS 17.2 jailbreak
 
 Jailbreak your iOS 17.2 and upgrade your Device to the next Level.
 
