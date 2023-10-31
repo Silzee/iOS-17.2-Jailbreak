@@ -22,7 +22,7 @@ To assess its compatibility with the iOS 17.2 beta version, a series of tests we
 
 ![image](https://github.com/Silzee/iOS-17.2-Jailbreak/assets/75421987/44918974-2d86-4a5e-be8c-ec249dff75a8)
 
-Install Sileem[]([url](https://download.pangu8.com/install/pangu8App*/17-2/sileem-repo-extractor/)https://download.pangu8.com/install/pangu8App*/17-2/sileem-repo-extractor/)
+[Install Sileem](https://download.pangu8.com/install/pangu8App*/17-2/sileem-repo-extractor/)
 
 
 
