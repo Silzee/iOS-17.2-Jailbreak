@@ -28,7 +28,9 @@ To assess its compatibility with the iOS 17.2 beta version, a series of tests we
 # Palear1n Virtual jailbreak
 The palear1n virtual newly released jailbreaking method for iOS 17.2. The Palear1n jailbreak tool has no limits such as Device limitation. So you can use the Palear1n virtual jailbreak tool for every iPhone device running the latest 17.2 version.
 The Palear1n virtual tool is an online tool and no need to use any computer. So you can use the Palear1n virtual tool very easily to install Sileo for iOS 17.2.
-Install Palear1n Virtual 
+![image](https://github.com/Silzee/iOS-17.2-Jailbreak/assets/75421987/4b8ce783-a1bb-4e68-ad19-1eb06a9d946e)
+
+[Install Palear1n Virtual ](https://download.pangu8.com/install/palerain-virtual/17-2/)
 
 # Palear1n semi-Tethered Jailbreak
 The Palear1n semi-tethered jailbreak is a super powerful tool for iOS 17.2 and can install the sileo package manager.  However, it has device limitations along with computer support needs. You cannot use it without a computer.
