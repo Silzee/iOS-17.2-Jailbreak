@@ -36,6 +36,9 @@ The Palear1n virtual tool is an online tool and no need to use any computer. So 
 The Palear1n semi-tethered jailbreak is a super powerful tool for iOS 17.2 and can install the sileo package manager.  However, it has device limitations along with computer support needs. You cannot use it without a computer.
 If you have Windows or macOS, then you can use it very easily. Otherwise, Palear1n jailbreak is not a suitable method for you.
 
+![image](https://github.com/Silzee/iOS-17.2-Jailbreak/assets/75421987/5e28d6d0-f09d-4dce-9479-196dfbbf991a)
+
+
 [Install Palear1n ](https://pangu8.com/jailbreak/palera1n/)
 
 # iOS 17.2 Jailbreak type
